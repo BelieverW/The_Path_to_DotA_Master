@@ -446,8 +446,8 @@ $(document).ready(function() {
             type: 'gauge',
         },
         gauge: {
-            min: -2,
-            max: 2, // 100 is default
+            min: -3,
+            max: 3, // 100 is default
         },
         color: {
             pattern: ['#FF0000', '#F97600', '#F6C600', '#60B044'], // the three color levels for the percentage values.
@@ -470,8 +470,8 @@ $(document).ready(function() {
             type: 'gauge',
         },
         gauge: {
-            min: -2,
-            max: 2, // 100 is default
+            min: -3,
+            max: 3, // 100 is default
         },
         color: {
             pattern: ['#FF0000', '#F97600', '#F6C600', '#60B044'], // the three color levels for the percentage values.
@@ -541,8 +541,8 @@ $(document).ready(function() {
             type: 'gauge',
         },
         gauge: {
-            min: -2,
-            max: 2, // 100 is default
+            min: -3,
+            max: 3, // 100 is default
         },
         color: {
             pattern: ['#FF0000', '#F97600', '#F6C600', '#60B044'], // the three color levels for the percentage values.
@@ -565,8 +565,8 @@ $(document).ready(function() {
             type: 'gauge',
         },
         gauge: {
-            min: -2,
-            max: 2, // 100 is default
+            min: -3,
+            max: 3, // 100 is default
         },
         color: {
             pattern: ['#FF0000', '#F97600', '#F6C600', '#60B044'], // the three color levels for the percentage values.
